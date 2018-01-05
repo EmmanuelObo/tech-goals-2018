@@ -5,3 +5,4 @@
 - Contribute more to open source projects
 - Work on side projects
 - Build at least 10 fully functioning applications
+- Finish designing personal site
