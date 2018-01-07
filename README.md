@@ -6,3 +6,4 @@
 - Work on side projects
 - Build at least 10 fully functioning applications
 - Finish designing personal site
+- Get AWS certified
